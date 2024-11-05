@@ -1,6 +1,6 @@
 # Python GUI Application template
 
-
+![](./assets/img/header.png)
 
 # About
 
